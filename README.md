@@ -1,4 +1,4 @@
-# CASSA_Internship
+# CASSA_Internship (Spring 2026)
 The uploaded works will work as a demonstration of the works which have done during the internship at Center for Astronomy, Space Science and Astrophysics, IUB, Dhaka
 
 Project Name: MiMiC (Mining Minihalos in Clusters of Galaxies)
